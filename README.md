@@ -2,6 +2,8 @@
 
 I am Yossef Aly, From Egypt. I am an Embedded Systems Enthusiasm. you can check out my linkedln at www.linkedin.com/in/yossef-aly-5a45a8240 😊
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YossefAly)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 
