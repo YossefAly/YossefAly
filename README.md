@@ -1,20 +1,18 @@
-# Hi there 👋
-
-I am Yossef Aly, From Egypt. I am an Embedded Systems Enthusiasm. you can check out my linkedln at www.linkedin.com/in/yossef-aly-5a45a8240 😊
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YossefAly)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+### Hi there 👋, my name is Yossef Aly From Egypt
+####  I am an Embedded Systems Enthusiasm
+![ I am an Embedded Systems Enthusiasm](https://kinetic-vision.com/wp-content/uploads/2021/02/Architecture-2.jpg)
 
 
-Here are some ideas to get you started:
+Skills: C / C++ / Python / Assembly / ARM / OOP 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Developing a RTOS   
+- 🌱 I’m currently learning Digital IC Design 
+- 📫 How to reach me: yusuf.ya@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YossefAly)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/yossef-aly-5a45a8240/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YossefAly)](https://github.com/anuraghazra/github-readme-stats)
+
