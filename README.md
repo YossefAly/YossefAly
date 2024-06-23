@@ -10,7 +10,7 @@ Skills: C / C++ / Python / Assembly / ARM / OOP
 
 - 🔭 I’m currently working on Developing a RTOS   
 - 🌱 I’m currently learning Digital IC Design 
-- 📫 How to reach me: yusuf.ya@gmail.com 
+- 📫 How to reach me: yusuf.ya433@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YossefAly)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/yossef-aly-5a45a8240/)  
