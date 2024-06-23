@@ -1,6 +1,9 @@
+
+![ I am an Embedded Systems Enthusiasm](https://kinetic-vision.com/wp-content/uploads/2021/02/Architecture-2.jpg)
+
 ### Hi there 👋, my name is Yossef Aly From Egypt
 ####  I am an Embedded Systems Enthusiasm
-![ I am an Embedded Systems Enthusiasm](https://kinetic-vision.com/wp-content/uploads/2021/02/Architecture-2.jpg)
+
 
 
 Skills: C / C++ / Python / Assembly / ARM / OOP 
