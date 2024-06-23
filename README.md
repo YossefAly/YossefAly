@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Yossef Aly, From Egypt. I am an Embedded Systems Enthusiasm. you can check more info about me in my linkedln www.linkedin.com/in/yossef-aly-5a45a8240 😊
+I am Yossef Aly, From Egypt. I am an Embedded Systems Enthusiasm. you can check out my linkedln at www.linkedin.com/in/yossef-aly-5a45a8240 😊
 
 <!--
 
