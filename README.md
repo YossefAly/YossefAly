@@ -8,7 +8,7 @@
 
 Skills: C / C++ / Python / Assembly / ARM / OOP 
 
-- 🔭 I’m currently working on CAN Peripherl driver   
+- 🔭 I’m currently SPI Slave to RAM   
 - 🌱 I’m currently learning Digital IC Design 
 - 📫 How to reach me: yusuf.ya433@gmail.com 
 
