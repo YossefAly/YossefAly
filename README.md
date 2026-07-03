@@ -8,7 +8,6 @@ I design and build firmware, custom test hardware, and production test systems f
 
 - 💻 Writing **firmware at the MCAL/HAL layers** for MSP430-based metering devices (SD24 ADC, EEPROM, internal Flash drivers)
 - 🖥️ Building a **C++17 / SDL3 / ImGui GUI** for controlling ESP32-based production jigs over MQTT
-- 🌱 Currently learning **Digital IC Design**
 - 🎓 B.Sc. Electrical Energy Engineering, Cairo University (2024)
 - 📫 Reach me at **yossefaly.h@gmail.com**
 
