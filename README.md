@@ -6,7 +6,6 @@
 
 I design and build firmware, custom test hardware, and production test systems for industrial metering products — from PCB bring-up to embedded drivers to GUI tooling.
 
-- 🔧 Currently building **automated production test systems** for gas & electricity meters (Altium-designed test boards, power integrity checks, UART/EEPROM/Flash verification, actuator testing)
 - 💻 Writing **firmware at the MCAL/HAL layers** for MSP430-based metering devices (SD24 ADC, EEPROM, internal Flash drivers)
 - 🖥️ Building a **C++17 / SDL3 / ImGui GUI** for controlling ESP32-based production jigs over MQTT
 - 🌱 Currently learning **Digital IC Design**
